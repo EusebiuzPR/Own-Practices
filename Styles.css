@@ -4,7 +4,7 @@
 }
 
 div {
-    display: inline-block;
+    display: ;
 }
 
 .box1 {
@@ -33,4 +33,9 @@ div {
     height: 300px;
     color: white;
     padding: 10px;
+}
+
+h3 {
+    text-align: center;
+    padding-top: 20px;
 }
